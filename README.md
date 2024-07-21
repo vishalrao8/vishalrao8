@@ -1,6 +1,6 @@
 <div align="center">
     <h2>👋 Hello there</h2>
-    <h2>I'm a Software Engineer who loves to work on Mobile Technologies</h3>
+    <h2>I'm a Software Developer who loves to work on Mobile Technologies</h3>
 </div>
 
 <br>
