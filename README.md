@@ -5,8 +5,7 @@
 
 <br>
 
-- 🔭 &nbsp;I'm currently working at **[Grappus](https://www.grappus.com/)**
-- 🌱 &nbsp;I’m currently learning **[Backend (Ktor)](https://ktor.io/)**
+- 🔭 &nbsp;I'm currently working at **[Burrow Software]([https://www.grappus.com/](https://www.burrowsoftware.com/))**
 - 💬 &nbsp;I like to talk about **Startup Ideas**
 - 📮 &nbsp;Ask me anything on my **[Issues Page](https://github.com/vishalrao8/vishalrao8/issues)**
 - 💻 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/vishalrao8/)**
