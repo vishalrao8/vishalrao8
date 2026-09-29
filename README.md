@@ -1,13 +1,12 @@
 <div align="center">
     <h2>👋 Hello there</h2>
-    <h2>I'm a software engineer, currently working on flutter framework and building beautiful functional interfaces.</h3>
+    <h2>I'm a software engineer, building agentic AI solutions to increase productivity at work and loves solving complex problems</h3>
 </div>
 
 <br>
 
-- 🔭 &nbsp;I'm currently working at **[Burrow Software]([https://www.grappus.com/](https://www.burrowsoftware.com/))**
-- 💬 &nbsp;I like to talk about **Startup Ideas**
-- 📮 &nbsp;Ask me anything on my **[Issues Page](https://github.com/vishalrao8/vishalrao8/issues)**
+- 🔭 &nbsp;I'm currently working at **[Mongoose AI](https://www.mongooseplatform.com/)**
+- 💬 &nbsp;I like to talk about AI, Video Games and Sports.
 - 💻 &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/vishalrao8/)**
 
 <br>
@@ -126,20 +125,3 @@
       <img src="./media/store-links/appstore_link.png" height=35px>
     </a>
 <br>
-
-# 💓 Projects that taught me
-
-> I started as native Java Android developer so most of the projects are in Java.
-
-<br>
-<a href="https://github.com/vishalrao8/BoxOffice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalrao8&repo=BoxOffice&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="BoxOffice" />
-</a>
-<br><br>
-<a href="https://github.com/vishalrao8/SmartServices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalrao8&repo=smartservices&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Smart Services" />
-</a>
-<br><br>
-<a href="https://github.com/vishalrao8/TastyTreat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalrao8&repo=tastytreat&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Tasty Treat" />
-</a>
