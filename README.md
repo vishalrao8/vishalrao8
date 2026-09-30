@@ -67,14 +67,14 @@
 
 1.  &nbsp;&nbsp; <b>NCP</b>
 
-    - #### A social media for NCP (Regional Election Party) members and leaders to connect with other and raise voice for change.
-    - ####  It also hosts media coverage, news and insights into the party affairs.
+    - #### A social media platform for NCP (Regional Election Party) members and leaders to connect with others and raise their voice for change.
+    - ####  It also hosts media coverage, news and insights into the party's affairs.
     <br>
-    <a href="https://play.google.com/store/apps/details?id=in.org.ncp" >
+    <a href="https://play.google.com/store/apps/details?id=com.develop.ncp_youth" >
       <img src="./media/store-links/googleplay_link.png" height=35px>
     </a>
     &nbsp;
-    <a href="https://apps.apple.com/in/app/ncp-sp/id1599452574" >
+    <a href="https://apps.apple.com/in/app/ncp-youth/id1581373014" >
       <img src="./media/store-links/appstore_link.png" height=35px>
     </a>
 
